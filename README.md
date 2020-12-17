@@ -1,3 +1,4 @@
 # Ejemplo 1
 Usando animación y Flask
-![Captura](Captura.png)
+
+(https://github.com/ernestozz/projectos/blob/main/Captura.PNG)
