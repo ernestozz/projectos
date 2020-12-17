@@ -1,0 +1,36 @@
+<html>
+<title></title>
+
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+
+
+<body>
+
+    <h1>Hello world</h1>
+
+    <div class="sea">
+        <div class="circle-wrapper">
+            <div class="bubble"></div>
+            <div class="submarine-wrapper">
+                <div class="submarine-body">
+                    <div class="window"></div>
+                    <div class="engine"></div>
+                    <div class="light"></div>
+                </div>
+                <div class="helix"></div>
+                <div class="hat">
+                    <div class="leds-wrapper">
+                        <div class="periscope"></div>
+                        <div class="leds"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% block content %} {% endblock %}
+</body>
+
+</html>
