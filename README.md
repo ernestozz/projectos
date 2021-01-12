@@ -1,5 +1,5 @@
 # Ejemplo 1
-Usando animación SCSS y Flask
+Usando animación Sass y Flask
 
 ![ScreenShot](https://github.com/ernestozz/projectos/blob/main/Captura.PNG)
 
